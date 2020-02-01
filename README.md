@@ -5,7 +5,7 @@
 
 Authors:
 ---
-Roy Xu, Jiangyuan Wu, Wayne Du, Shaohong Wan
+Roy Xu, Jiangyuan Wu, Wayne Du, Zhaohong Wan
 
 
 Description:
@@ -37,7 +37,7 @@ The goals we need to achieve:
     1. Detect the edges of object.
     2. Get rid of unnecessary edges.
     3. Ajusting pictures into same scales.
-    4. Mapping demention values togater.
+    4. Mapping demention values together.
     5. Create 3D objects according to the demention values (x, y, z)
     
 The successful project should produce 3D object similar to the original object, except for surfaces that curve into the object. The time should be engough if we start the project early.
